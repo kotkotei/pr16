@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\16practick\16practick\bin\Debug\16practick.exe.config
+C:\Users\1\source\repos\16practick\16practick\bin\Debug\16practick.exe
+C:\Users\1\source\repos\16practick\16practick\bin\Debug\16practick.pdb
+C:\Users\1\source\repos\16practick\16practick\obj\Debug\16practick.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\16practick\16practick\obj\Debug\_16practick.Form1.resources
+C:\Users\1\source\repos\16practick\16practick\obj\Debug\_16practick.Properties.Resources.resources
+C:\Users\1\source\repos\16practick\16practick\obj\Debug\16practick.csproj.GenerateResource.cache
+C:\Users\1\source\repos\16practick\16practick\obj\Debug\16practick.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\16practick\16practick\obj\Debug\16practick.exe
+C:\Users\1\source\repos\16practick\16practick\obj\Debug\16practick.pdb
